@@ -6,7 +6,7 @@ local minotaurConfig = {
   lookType = 29,
   groupId = "minotaurs",
 
-  speed = 500,
+  speed = 600,
   healthFactor = 30,
   weakFromPower = 1200,
 
